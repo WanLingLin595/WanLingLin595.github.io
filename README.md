@@ -1,4 +1,4 @@
-# academic-homepage
+# lwl-academic-homepage
 
 ![Preview](assets/images/etc/preview.png)
 
