@@ -1,11 +1,12 @@
 ---
 title:          "Reliability evaluation of generalized exchanged $X$-cubes under the $R_g$-conditional restriction"
 date:           2024-01-26 00:01:00 +0800
-selected:       false
+selected:       true
+order: 5
 pub:            "Journal of Supercomputing,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_date:       "vol. 80, pp. 11401-11430, 2024"
+pub_date:       "vol. 80, no. 8, pp. 11401-11430, 2024"
 cover:          /assets/images/covers/wanSuper.jpg
 authors:
   - Wanling Lin
