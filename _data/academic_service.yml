@@ -1,17 +1,16 @@
 title: "Academic Service"
 icon_html: '<i class="fas fa-university"></i>'
 
-tpc_member:
-  heading: "TPC Member"
-  items:
-    - "IEEE International Symposium on Parallel and Distributed Processing with Applications"
+#tpc_member:
+#  heading: "TPC Member"
+#  items:
+#    - "IEEE International Symposium on Parallel and Distributed Processing with Applications"
 
 reviewer:
   heading: "Reviewer"
   items:
-    - "International World Wide Web Conference"
-    - "IEEE Transactions on Computers"
-    - "IEEE Transactions on Networking"
     - "IEEE Transactions on Communications"
     - "IEEE Transactions on Reliability"
-    - "Discrete Applied Mathematics"
+    - "The Journal of Supercomputing"
+    - "Cluster Computing"
+    - "Peer-to-peer networking and applications"
