@@ -6,7 +6,7 @@ positions:
 - logo: /assets/images/badges/Fuzhou.png  # Logo is optional
   name: Doctoral Candidate, Fuzhou University
 
-location: https://maps.app.goo.gl/Zz9x37L6eoWvgKve9
+location: Fuzhou, Fujian, China<a href="https://maps.app.goo.gl/Zz9x37L6eoWvgKve9">
 email: "wanlinglin595@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: Z96mvn8AAAAJ&hl  # This is an example, replace it with your own Google Scholar ID
@@ -38,13 +38,13 @@ education:
 
 
 awards:
-- name: Outstanding Doctoral Dissertation Award in FZU
-  date: 2025
-- name: Excellent Graduate of FZU
-  date: 2024
 - name: National Scholarship for Doctoral Students
-  date: 2023
-- name: Lu Jiaxi Scholarship for Outstanding Graduate Student 
-  date: 2023
+  date: 2024
 - name: Freshman Special Scholarship for Doctoral Candidate in FZU
-  date: 2021
+  date: 2022
+- name: First-Class Midterm Study Scholarship for Master Students in FZU
+  date: 2022
+- name: Outstanding Undergraduate Dissertation Award in FZU
+  date: 2020
+- name: Excellent Undergraduate Graduate of FZU
+  date: 2020
