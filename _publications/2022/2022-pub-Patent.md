@@ -1,18 +1,18 @@
 ---
-title:          "Realtime urban traffic status monitoring method based on privacy-preserving compressive sensing"
-date:           2022-04-12 00:01:00 +0800
+title:          "一种数据中心网络BCCC上数据的并行传输方法"
+date:           2022-03-08 00:01:00 +0800
 selected:       false
-pub:            "US Patent 11, 303,"
+pub:            "Chinese Patent,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_date:       "620"
-cover:          /assets/images/covers/traffic.jpg
+pub_date:       "CN111917652B"
+cover:          /assets/images/covers/L-BCCC(5,2).jpg
 authors:
-  - Ximeng Liu
-  - Wenzhong Guo
-  - Jiayin Li
-  - Xiaoyan Li
-  - Hongbin Zhuang
+  - 李小燕
+  - 林婉玲
+  - 刘西蒙
+  - 郭文忠
+  - 林政宽
 links:
-  Paper: https://patents.google.com/patent/US11303620B2/en
+  Paper: https://patents.google.com/patent/CN111917652B/zh
 ---

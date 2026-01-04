@@ -1,17 +1,16 @@
 ---
-title:          "Embedding Hamiltonian paths in $k$-ary $n$-cubes with exponentially-many faulty edges"
-date:           2023-11-20 00:01:00 +0800
+title:          "Constructing multiple CISTs on BCube-based data center networks in the occurrence of switch failures"
+date:           2023-07-01 00:01:00 +0800
 selected:       true
 order: 1
 pub:            "IEEE Transactions on Computers,"
-pub_date:       "vol. 72, no. 11, pp. 3245-3258, 2023"
-cover:          /assets/images/covers/tc.jpg
+pub_date:       "vol. 72, no. 7, pp. 1971-1984, 2023"
+cover:          /assets/images/covers/CIST-partition.jpg
 authors:
-- Hongbin Zhuang
+- Wanling Lin
 - Xiao-Yan Li
 - Jou-Ming Chang
-- Cheng-Kuan Lin
-- Ximeng Liu
+- Xiaohua Jia
 links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/10159476
+  Paper: https://ieeexplore.ieee.org/abstract/document/10021857
 ---

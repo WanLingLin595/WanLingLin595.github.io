@@ -5,7 +5,7 @@ selected:       false
 pub:            "IEEE Transactions on Parallel and Distributed Systems,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_date:       "pp. 888-893, 2022"
+pub_date:       "vol. 33, no. 8, pp. 1939-1952, 2022"
 cover:          /assets/images/covers/BCCC(5,1).jpg
 authors:
   - Xiao-Yan Li
@@ -13,7 +13,7 @@ authors:
   - Ximeng Liu
   - Cheng-Kuan Lin
   - Kung-Jiu Pai
-  - Jou-Ming Chang#
+  - Jou-Ming Chang
 links:
   Paper: https://ieeexplore.ieee.org/abstract/document/9645299
 ---
