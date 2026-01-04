@@ -1,6 +1,6 @@
 ---
 title:          "Transmission failure analysis of multi-protection routing in data center networks with heterogeneous edge-core servers"
-date:           2022-08 00:01:00 +0800
+date:           2022-08-01 00:01:00 +0800
 selected:       false
 pub:            "IEEE/ACM Transactions on Networking,"
 # pub_pre:        "Submitted to "
