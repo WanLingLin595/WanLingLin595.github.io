@@ -1,8 +1,8 @@
 ---
 title:          "Reliability evaluation of generalized exchanged $X$-cubes under the $R_g$-conditional restriction"
 date:           2024-01-26 00:01:00 +0800
-selected:       true
-order: 5
+selected:       false
+# order: 5
 pub:            "Journal of Supercomputing,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
