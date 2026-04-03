@@ -6,7 +6,7 @@ selected:       false
 pub:            "IEEE Transactions on Computers,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_date:       "10.1109/TC.2026.3654555"
+pub_date:       "vol. 75, no. 4, pp. 1565-1578, 2026"
 cover:          /assets/images/covers/TC-2026.jpg
 authors:
     - Hongbin Zhuang
