@@ -5,5 +5,5 @@ pages:
   - name: Publications
     url: /publications
   - name: CV
-    url: /assets/files/LWL-CV.pdf   # 或 /cv.pdf
+    url: /assets/files/CV.pdf   # 或 /cv.pdf
     target: _blank              # 新标签页打开

@@ -29,8 +29,8 @@ portrait_url: /assets/images/photos/myphoto1.jpg
 education:
 - name: Fuzhou University
   logo: /assets/images/badges/Fuzhou.png
-  position: Doctoral Candidate in Computer Science and Technology
-  date: Sep. 2020 - Present
+  position: Ph.D. in Computer Science and Technology
+  date: Sep. 2020 - Jun. 2026
 - name: Fuzhou University
   logo: /assets/images/badges/Fuzhou.png
   position: B.Eng. in Information Security
@@ -38,6 +38,8 @@ education:
 
 
 awards:
+- name: Excellent Graduate of FZU
+  date: 2026
 - name: National Scholarship for Doctoral Students
   date: 2024
 - name: Freshman Special Scholarship for Doctoral Candidate in FZU
@@ -46,5 +48,5 @@ awards:
   date: 2022
 - name: Outstanding Undergraduate Dissertation Award in FZU
   date: 2020
-- name: Excellent Undergraduate Graduate of FZU
-  date: 2020
+#- name: Excellent Undergraduate Graduate of FZU
+#  date: 2020
