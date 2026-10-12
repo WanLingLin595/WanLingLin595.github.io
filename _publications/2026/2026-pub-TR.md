@@ -7,7 +7,7 @@ pub:            "IEEE Transactions on Reliability,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_date:       "DOI: 10.1109/TR.2026.3741919"
-cover:          /assets/images/covers/TR-2026.jpg
+cover:          /assets/images/covers/TR-BCCC.jpg
 authors:
     - Wanling Lin
     - Xiao-Yan Li
