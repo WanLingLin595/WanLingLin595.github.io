@@ -1,8 +1,8 @@
 ---
 title:          "Identifying social network influencers: A scheme based on TOPSIS and network decomposition"
 date:           2026-05-10 00:01:00 +0800
-selected:       true
-order: 5
+selected:       false
+#order: 5
 pub:            "Expert Systems with Applications,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
