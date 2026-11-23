@@ -6,7 +6,7 @@ order: 4
 pub:            "IEEE Transactions on Reliability,"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_date:       "DOI: 10.1109/TR.2026.3741919"
+pub_date:       "vol. 75, pp. 3959-3973, 2026"
 cover:          /assets/images/covers/TR-BCCC.jpg
 authors:
     - Wanling Lin

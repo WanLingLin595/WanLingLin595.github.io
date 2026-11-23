@@ -9,6 +9,7 @@ icon_html: '<i class="fas fa-university"></i>'
 reviewer:
   heading: "Reviewer"
   items:
+    - "IEEE Transactions on Computers"
     - "IEEE Transactions on Communications"
     - "IEEE Transactions on Reliability"
     - "IEEE Transactions on Network Science and Engineering"
